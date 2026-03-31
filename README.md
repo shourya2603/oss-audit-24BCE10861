@@ -1,6 +1,6 @@
 # 🐧 Open Source Audit — Linux Kernel
-# Name: Himanshu Singh
-# Registration No: 24BCE10409
+# Name: Shourya Mishra
+# Registration No: 24BCE10861
 
 A capstone project exploring the philosophy, architecture, and ecosystem of the **Linux Kernel** as part of an Open Source Software course.
 
@@ -139,8 +139,8 @@ Displays system-level information:
 
 ## 📚 Author
 
-**Himanshu Singh**
-Registration Number: 24BCE10409
+**Shourya Mishra**
+Registration Number: 24BCE10861
 Course: Open Source Software
 
 
