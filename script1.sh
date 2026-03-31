@@ -1,0 +1,22 @@
+#!/bin/bash
+# Script 1: System Identity Report
+# Author: [Your Name] | Course: Open Source Software
+# --- Variables ---
+STUDENT_NAME="Himanshu Singh" # Fill in your name
+SOFTWARE_CHOICE="Linux Kernel" # Fill in your chosen software
+# --- System info ---
+KERNEL=$(uname -r)
+USER_NAME=$(whoami)
+UPTIME=$(uptime -p)
+# --- Display ---
+echo "================================"
+echo " Open Source Audit — $STUDENT_NAME"
+echo "================================"
+echo "Kernel : $KERNEL"
+echo "User : $USER_NAME"
+echo "Uptime : $UPTIME"
+. /etc/os-release
+echo "Distro: $NAME"
+echo "Date: $(date +"%Y-%m-%d %H:%M:%S")"
+echo "License: GNU"
+# TODO: Add distro name, date, and license message
