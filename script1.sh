@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 # Author: [Your Name] | Course: Open Source Software
 # --- Variables ---
-STUDENT_NAME="Himanshu Singh" # Fill in your name
+STUDENT_NAME="Shourya Mishra" # Fill in your name
 SOFTWARE_CHOICE="Linux Kernel" # Fill in your chosen software
 # --- System info ---
 KERNEL=$(uname -r)
